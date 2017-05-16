@@ -1,0 +1,32 @@
+p
+{
+  color:rgb(256,0,0);  /*0 a 256 */
+ background-color:rgba(0,0,0,0.5) ;
+}
+p:nth-of-type(1)
+{
+  font-size:30px;
+}
+p:hover
+{
+background-color:rgb(15,25,23)
+}
+p:hover:nth-of-type(1)
+{
+font-family:courier, tahoma,sans-serif;
+}
+
+#mickey
+{
+
+}
+.quad
+{
+width:100px;   /*largura*/
+heigth:100px;  /*altura*/
+}
+.big
+{
+width:60px;   /*largura*/
+heigth:122px;  /*altura*/
+}
